@@ -9,6 +9,7 @@
 - clearInterval (necessary when we use setInterval)
 - event handler
 - let variable
+- local storage
 
 ### Feature Add
 - milliseconds
