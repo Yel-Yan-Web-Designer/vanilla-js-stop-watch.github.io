@@ -39,9 +39,14 @@ button{
     font-size: 1.1rem;
     padding: 0.3rem 0.6rem;
     transition: all 0.2s ease-in-out;
+    user-select: none;
 }
 button:focus{
     background: transparent;
     border: 1px solid hsl(160, 70%, 50%);
     color: black;
+}
+button.active{
+    cursor: not-allowed;
+    pointer-events: none;
 }

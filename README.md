@@ -9,3 +9,9 @@
 - clearInterval (necessary when we use setInterval)
 - event handler
 - let variable
+
+### Feature Add
+- milliseconds
+- UI still the same After reload
+- cursor not-allowed After button clicked
+- update start button and continue btn after reload
